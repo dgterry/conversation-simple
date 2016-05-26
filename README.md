@@ -9,7 +9,7 @@ This application demonstrates how the Conversation service uses intent capabilit
 
 Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/conversation-simple)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/dgterry/conversation-simple)
 
 ## How the app works
 The app interface is designed and trained for chatting with a cognitive car. The chat interface is on the left, and the
